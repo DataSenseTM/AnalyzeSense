@@ -37,7 +37,7 @@ class MultiApp:
         })
 
     def run(self):
-        st.sidebar.title("AnalyzeSense")
+        st.sidebar.title("InsightSense")
         st.sidebar.subheader("Powered By DataSense")
         app = st.sidebar.radio(
             'Go To',
