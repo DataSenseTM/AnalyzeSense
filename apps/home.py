@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 def app():
-    st.title("AnalyzeSense")
+    st.title("InsightSense")
     st.write("A no code data visualization and data cleaning platform")
     #st.image("https://dimensionless.in/wp-content/uploads/2018/11/cover_updated.jpg", width=400)
     st.title("Plot")
